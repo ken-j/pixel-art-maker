@@ -1,26 +1,3 @@
-// Select color input
-// Select size input
-
-// When size is submitted by the user, call makeGrid()
-
-
-
-    // on form submit
-    // const inputx
-    // const inputy
-    // const colour
-    
-    //table
-    // for 1 to inputx
-        // tr
-        // for 1 to inputy
-                //td
-                // add event listener
-    
-    // function eventlistener
-        // change css background color
-
-
 $(document).ready(function() {
     console.log( "ready!" );
     
